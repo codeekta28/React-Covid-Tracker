@@ -1,0 +1,12 @@
+.card{
+    border: 2px solid white;
+    width: 30%;
+    border-radius: 10px;
+    margin: 1rem 0px;
+}
+.card h1{
+    background-color: green;
+    margin: 0;
+    border-top-left-radius: 11px;
+    border-top-right-radius: 12px;
+}
